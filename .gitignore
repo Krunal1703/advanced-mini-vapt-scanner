@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Reports (generated files)
+reports/*.json
+reports/*.html
+
+# OS / Editor
+.DS_Store
+.vscode/
